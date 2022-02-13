@@ -4,5 +4,3 @@ git commit -m " NEW: Premier commit by Sayna" # Création d'un package avant env
 git branch -M main # Création de la branch principal 'Main'
 git remote add origin
 
-https://github.com/Sylvestre22/sayna-html-css-exercice1.git # Link entre le code sur le pc avec les serveurs de GitHub
-git push -u origin main # Envoi du package
